@@ -34,9 +34,11 @@ The ESP32 connects to WiFi and then to Blynk using the credentials defined in th
 
 The code also waits about 30 seconds after startup so the PIR sensor can stabilize before monitoring begins.
 
----
+## Circuit Diagram & Connections
 
-## Circuit Connection
+![Circuit Diagram](Circuit_Diagram.png)
+
+### Pin Mapping
 
 | Component | ESP32 Pin |
 |------------|-----------|
