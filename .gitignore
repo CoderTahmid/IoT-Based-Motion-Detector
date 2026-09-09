@@ -1,0 +1,25 @@
+# Secrets and environment configuration
+main/secrets.h
+secrets.h
+.env
+*.env
+*.local
+
+# Arduino / PlatformIO / Build artifacts
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
